@@ -1,2 +1,3 @@
 # FSD-practical-4
-This repository has been created for FSD practical
+Name: Vanshit Singh Chauhan  
+Practical 4: GitHub Basics  
